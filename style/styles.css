@@ -1,0 +1,13 @@
+body {
+   background: lightgray;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-family: "Titillium Web", "sans-serif";
+    font-weight: 400;
+    font-size: 100px;
+    text-align: center;
+    font-style: normal;
+    color: white;
+    text-shadow: 0 0 10px #000;
+}
